@@ -16,3 +16,5 @@ plt.show()
 def func(age, k, b):
 
 
+
+ 
